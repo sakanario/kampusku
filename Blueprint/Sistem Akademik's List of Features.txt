@@ -1,0 +1,25 @@
+Sistem Akademik's List of Features
+
+User
+	Mahasiswa
+		Nama
+		NIM
+		email
+		password
+		
+	Pendataan Dosen
+		Nama
+		NIP
+		email
+		password
+		
+		
+Form Tugas
+	Buat pengumuman tugas
+	Submit tugas
+	Input Nilai
+
+Steps
+	Cari cara connect firebase ke Codeigniter 4
+	
+
